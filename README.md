@@ -8,6 +8,8 @@
 [![R-CMD-check](https://github.com/MelinaThibault/WhenSeptEnds/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/MelinaThibault/WhenSeptEnds/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
+Hey this is a proposal for change
+
 The goal of WhenSeptEnds is to practice creating functions in R because
 *summer has come and passed*.
 
