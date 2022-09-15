@@ -21,6 +21,8 @@ knitr::opts_chunk$set(
 
 The goal of WhenSeptEnds is to practice creating functions in R because *summer has come and passed*.
 
+This is a test for pull request.
+
 ## Installation of pkg
 
 You can install the development version of WhenSeptEnds from [GitHub](https://github.com/) with:
