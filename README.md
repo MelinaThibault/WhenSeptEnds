@@ -9,9 +9,7 @@
 The goal of WhenSeptEnds is to practice creating functions in R because
 *summer has come and passed*.
 
-## Installation
-
-You are trash.
+## Installation of pkg
 
 You can install the development version of WhenSeptEnds from
 [GitHub](https://github.com/) with:
