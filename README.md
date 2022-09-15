@@ -11,6 +11,8 @@ The goal of WhenSeptEnds is to practice creating functions in R because
 
 ## Installation
 
+You are trash.
+
 You can install the development version of WhenSeptEnds from
 [GitHub](https://github.com/) with:
 
