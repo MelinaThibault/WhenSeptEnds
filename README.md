@@ -25,9 +25,9 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(WhenSeptEnds)
-x <- c(20, 30, 6000)
+x <- c(10, 27, 2009)
 mylog(x)
-#> [1] 2.995732 3.401197 8.699515
+#> [1] 2.302585 3.295837 7.605392
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
